@@ -3,3 +3,6 @@
 /.vertx/
 /.project
 /.classpath
+/.factorypath
+/*.iml
+/.idea
